@@ -75,7 +75,7 @@ const Basket = () => {
             <span>{`סכום סה"כ ₪${totalSum}`}</span>
             <Button icon="pi pi-shopping-bag" severity="warning" label="להזמנה" onClick={() => products.length > 0 ? setVisible(true) : alert("הסל ריק")}/>
             <Button icon="pi pi-refresh" rounded raised />
-             <Button icon="pi pi-refresh" rounded raised label="לחזרה לחנות" style={{ backgroundColor: 'red' }}  onClick={() => navigate("/seeall")}></Button>
+             <Button icon="pi pi-refresh" rounded raised label="לחזרה לחנות" style={{ backgroundColor: 'orange' }}  onClick={() => navigate("/seeall")}></Button>
         </div>
     );
     const footer = `In total there are ${products.length} products. Selected: ${selectedProducts.length}`;
