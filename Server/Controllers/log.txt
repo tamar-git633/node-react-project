@@ -1,0 +1,19 @@
+hi this is my filehi this is my filehi this is my filen
+         bgy, numSteps: 16, winner? false,
+         nbgy2, numSteps: 16, winner? true
+         player1, numSteps: 58, winner? false,
+         player2, numSteps: 58, winner? true
+         tamar, numSteps: 13, winner? false,
+         ayala, numSteps: 13, winner? true
+
+        yael, numSteps: 5, winner? true,
+         yaelush, numSteps: 4, winner? false
+
+שחקן 1, numSteps: 31, winner? true,
+         שחקן 2, numSteps: 30, winner? false
+
+תמר1, numSteps: 25, winner? false,
+         תמר2, numSteps: 25, winner? true
+
+תמר4, numSteps: 27, winner? false,
+         רבקי4, numSteps: 27, winner? true

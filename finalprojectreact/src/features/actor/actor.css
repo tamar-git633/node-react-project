@@ -1,0 +1,16 @@
+.cls1{
+    display: flex;
+    background-color:chartreuse;
+    width: 45rem;
+    height: 20rem;
+    gap: 3%;
+}
+button{
+    margin-top: 28%;
+    margin-bottom: 10%;
+    height: 10%;
+    margin-left: 1%;
+}
+.div3{
+    margin-left: 40%;
+}
